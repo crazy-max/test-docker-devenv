@@ -1,4 +1,4 @@
-# syntax = docker/dockerfile:1
+# syntax = docker/dockerfile-upstream:master
 
 FROM ubuntu
 LABEL maintainer="modem7"
