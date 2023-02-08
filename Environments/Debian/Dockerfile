@@ -1,5 +1,3 @@
-# syntax = docker/dockerfile:1
-
 FROM debian
 LABEL maintainer="modem7"
 
