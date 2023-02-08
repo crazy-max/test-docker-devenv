@@ -1,4 +1,4 @@
-# syntax = crazymax/dockerfile:fix-git-context
+# syntax = docker/dockerfile:1.4
 
 FROM alpine:edge
 LABEL maintainer="modem7"
